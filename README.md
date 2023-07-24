@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/jt0oar5n2xdtcnms?svg=true)](https://ci.appveyor.com/project/smartcookiem/rest)
+[![Build status](https://ci.appveyor.com/api/projects/status/jt0oar5n2xdtcnms/branch/main?svg=true)](https://ci.appveyor.com/project/smartcookiem/rest/branch/main)
